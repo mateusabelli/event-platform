@@ -18,7 +18,7 @@
     "phosphor-react": "^1.4.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.30.4"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^7.0.0",
